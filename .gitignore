@@ -1,0 +1,4 @@
+# Ignore large data files tracked by DVC
+*.dvc
+*.lock
+.dvc/
