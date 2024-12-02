@@ -1,0 +1,4 @@
+type	latency	duration	baby
+supported_sitting_by_hand	12594.0643310658	1935	77077_4
+sitting	-0.935668934240363	12272	77077_4
+sitting	14560.0643310658	307358	77077_4

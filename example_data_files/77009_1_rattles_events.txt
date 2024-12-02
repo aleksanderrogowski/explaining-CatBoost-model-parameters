@@ -1,0 +1,5 @@
+type	latency	duration	baby
+reclined	2.43	293.53	77009_1
+claps	1.065	0.2	77009_1
+claps	1.665	0.16	77009_1
+claps	2.185	0.24	77009_1
